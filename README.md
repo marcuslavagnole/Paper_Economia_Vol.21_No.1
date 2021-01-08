@@ -3,7 +3,7 @@ Repository with R routines used in the paper:
 
 All functions and data sets are located in the root directory.
 - **MCMC_Code.R** : Main file containing the MCMC routine; 
-- **Full_Conditionals.R** : Auxiliary file with all full conditionals distributions;
+- **Full_Conditionals.R** : Auxiliary file with all full conditional distributions;
 - **dados.RData** : real data set;
 - **W_RS.RData** : adjacency matrix for the municipalities of Rio Grande do Sul state under analysis;
 - **W_RS_imediata.RData** : adjacency matrix for the immediate regions of Rio Grande do Sul;
