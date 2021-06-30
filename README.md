@@ -1,5 +1,5 @@
 Repository with R routines used in the paper:
-**"Implications of Brazilian institutional guidelines on educational efficiency"**, Forthcoming at Economía, the journal of LACEA.
+**"Implications of Brazilian institutional guidelines on educational efficiency"**, Accepted at Economía, the journal of LACEA.
 
 All functions and data sets are located in the root directory.
 - **MCMC_Code.R** : Main file containing the MCMC routine; 
