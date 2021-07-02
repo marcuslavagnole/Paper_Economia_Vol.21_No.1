@@ -1,4 +1,4 @@
-Repository with R routines used in the paper:
+Repository with R routines used in:
 **"Implications of Brazilian institutional guidelines on educational efficiency"**, Economía - the journal of LACEA, 21(1), 147-168, 2021.  
 
 All functions and data sets are located in the root directory.
